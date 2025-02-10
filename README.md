@@ -1,4 +1,4 @@
-## [본 과정] 이커머스 핵심 프로세스 구현
+## 영화 예매 프로그램 핵심 프로세스 구현
 
 <details>
   <summary style="font-weight: bold; font-size: 17px;">멀티모듈 구성 및 요구사항 구현</summary>
